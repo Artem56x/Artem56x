@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Artem — Software Developer">
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A84FF,50:5E5CE6,100:BF5AF2&height=260&section=header&text=Artem&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Software%20Developer%20%2F%2F%20Student%20%2F%2F%20Builder&descAlignY=63&descSize=18" width="100%" />
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=2800&pause=900&color=A8B7FF&center=true&vCenter=true&width=720&lines=Software+Developer+in+progress;C%23+%7C+ASP.NET+Core+%7C+Python;Building+real+projects+and+learning+every+day" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&size=21&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+useful+software.;Learning+by+building+real+projects.;C%23+%7C+.NET+%7C+Python+%7C+PostgreSQL;Currently+building+ScheduleSystem." alt="Typing animation" />
 
-<br><br>
+</div>
 
-<a href="https://github.com/Artem56x">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-&nbsp;
-<a href="https://github.com/Artem56x/ScheduleSystem">
-<img src="https://img.shields.io/badge/ScheduleSystem-1E40AF?style=for-the-badge&logo=.net&logoColor=white" alt="ScheduleSystem">
-</a>
+<br>
+
+<div align="center">
+
+ Software Developer
+
+C# · .NET · ASP.NET Core · Python · PostgreSQL
 
 </div>
 
