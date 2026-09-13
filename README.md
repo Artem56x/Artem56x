@@ -1,65 +1,59 @@
 <div align="center">
 
-# 👋 Hi, I'm Artem
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=220&section=header&text=Artem&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Student%20%7C%20Builder&descAlignY=58&descSize=18" width="100%" />
 
-### 💻 Software Developer • Student • Builder
-
-I’m a software development student from Kazakhstan who enjoys building useful applications, learning new technologies and improving my programming skills.
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Development+Student;Python+Developer;ASP.NET+Core+Developer;Building+ScheduleSystem;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Development+Student;C%23+%7C+ASP.NET+Core+Developer;Python+Learner;Building+ScheduleSystem;Turning+ideas+into+real+projects" alt="Typing SVG" />
 
 </div>
 
----
+<br>
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-* 🎓 Software development student
-* 💻 Interested in **backend development**
-* 🐍 Currently working with **Python**
-* ⚙️ Building applications with **C# / ASP.NET Core**
-* 🗄️ Working with **PostgreSQL** and databases
-* 🌐 Have experience with **HTML, CSS and JavaScript**
-* 🚀 Currently developing my own scheduling system
-* 📚 Constantly learning and improving my programming skills
+I'm **Artem**, a software development student from Kazakhstan.
+
+I enjoy building practical applications, working with databases and learning backend development through real projects.
+
+Currently focused on **C#, ASP.NET Core, PostgreSQL and Python**.
 
 ---
 
-## 🚀 Featured Project
+## ⚡ What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
 
 ### 📅 ScheduleSystem
 
-A web application for managing college schedules.
+A college schedule management system built with **ASP.NET Core MVC**.
 
-**Built with:**
+* Schedule management
+* Teachers & groups
+* Subjects & classrooms
+* Conflict detection
+* Smart search & filtering
+* Classroom recommendations
+* Capacity validation
+* Group / teacher / classroom schedules
 
-* C#
-* ASP.NET Core MVC
+</td>
+
+<td width="50%">
+
+### 🧠 Currently Learning
+
+* C# & .NET
+* ASP.NET Core
 * Entity Framework Core
 * PostgreSQL
-* HTML
-* CSS
-* JavaScript
+* Python
+* Clean application architecture
+* Git & GitHub
 
-### Features
-
-* 📅 Schedule management
-* 👨‍🏫 Teachers
-* 👥 Groups
-* 📚 Subjects
-* 🏫 Classrooms
-* 🗂️ Classroom categories
-* 🔎 Smart search and filtering
-* ⚠️ Schedule conflict detection
-* 💡 Classroom recommendations
-* 👤 Group schedules
-* 👨‍🏫 Teacher schedules
-* 🏫 Classroom schedules
-* 📊 Capacity validation
-
-> The project is continuously being developed and improved.
+</td>
+</tr>
+</table>
 
 ---
 
@@ -67,41 +61,61 @@ A web application for managing college schedules.
 
 ### Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cs,html,css,js" />
+<p>
+<img src="https://skillicons.dev/icons?i=cs,python,html,css,js" />
 </p>
 
-### Frameworks & Technologies
+### Frameworks & Tools
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=dotnet,postgres,git,github,vscode" />
 </p>
 
 ### Other
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=photoshop" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Project
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artem56x&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+### 📅 ScheduleSystem
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem56x&layout=compact&theme=transparent&hide_border=true" />
+**College Schedule Management System**
 
 </div>
 
+ScheduleSystem is an ASP.NET Core MVC application designed to simplify the creation and management of college schedules.
+
+**Core technologies:**
+
+`C#` · `ASP.NET Core MVC` · `Entity Framework Core` · `PostgreSQL` · `HTML` · `CSS` · `JavaScript`
+
+**Main focus:**
+
+> Prevent conflicts, simplify schedule management and provide useful recommendations instead of simply storing data.
+
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Artem56x&theme=transparent&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Artem56x&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem56x&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Artem56x&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -111,63 +125,56 @@ A web application for managing college schedules.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Artem56x/Artem56x/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Artem56x/Artem56x/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%" />
 
 </div>
 
 ---
 
-## 📈 My Current Focus
+## 📂 Other Projects
 
-```text
-C# / ASP.NET Core     ███████████████████░   90%
-Python                ███████████████░░░░░   75%
-PostgreSQL            ███████████████░░░░░   75%
-HTML / CSS / JS       █████████████░░░░░░░   65%
-Git / GitHub           █████████████░░░░░░░   65%
-```
+<div align="center">
 
-> Progress is not a competition.
-> I'm focused on building real projects and becoming a better developer.
+|          Project          |             Focus             |
+| :-----------------------: | :---------------------------: |
+|   📅 **ScheduleSystem**   |   ASP.NET Core · PostgreSQL   |
+|   🐍 **Python Projects**  | Python · Programming Practice |
+| 🗄️ **Database Projects** |       SQL · Access · 1C       |
+|    🌐 **Web Projects**    |    HTML · CSS · JavaScript    |
+
+</div>
 
 ---
 
 ## 🎯 Goals
 
-* [x] Learn programming fundamentals
-* [x] Build database-based applications
-* [x] Start working with ASP.NET Core
-* [x] Build a real scheduling system
-* [ ] Improve Python
-* [ ] Deepen C# and .NET knowledge
-* [ ] Build more production-like projects
-* [ ] Improve English for international communication
-* [ ] Become a professional software developer
-
----
-
-## 📂 Projects
-
-| Project                   | Description                        | Technologies                 |
-| ------------------------- | ---------------------------------- | ---------------------------- |
-| 📅 **ScheduleSystem**     | College schedule management system | C#, ASP.NET Core, PostgreSQL |
-| 🗄️ **Database Projects** | Educational database applications  | SQL, Access, 1C              |
-| 🌐 **Web Projects**       | Frontend and web experiments       | HTML, CSS, JavaScript        |
-| 🐍 **Python Projects**    | Learning and practice projects     | Python                       |
-
----
-
-## 💡 Development Philosophy
-
 ```text
-Learn → Build → Break → Fix → Improve → Repeat
+Build real projects
+        ↓
+Improve programming fundamentals
+        ↓
+Learn modern backend development
+        ↓
+Create production-quality applications
+        ↓
+Become a professional software developer
 ```
 
-I believe the best way to learn programming is to **build real projects**, make mistakes, understand why they happened, and improve the code.
+---
+
+## 💭 My Approach
+
+```text
+Learn → Build → Break → Understand → Improve
+```
+
+I don't want to only learn programming from tutorials.
+
+I want to **build things, solve problems, understand my mistakes and continuously improve my code.**
 
 ---
 
-## 📫 Contact
+## 📫 Find Me
 
 <div align="center">
 
@@ -177,12 +184,22 @@ I believe the best way to learn programming is to **build real projects**, make 
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Artem56x&style=flat-square&color=2f81f7" alt="Profile views" />
+
+<br><br>
+
+<sub>Thanks for visiting my profile.</sub>
+
+</div>
+
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
-
-<img src="https://komarev.com/ghpvc/?username=Artem56x&style=flat-square&color=2F81F7" alt="Profile views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
