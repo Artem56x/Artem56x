@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A84FF,50:5E5CE6,100:BF5AF2&height=260&section=header&text=Artem&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Software%20Developer%20%2F%2F%20Student%20%2F%2F%20Builder&descAlignY=63&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A84FF,50:5E5CE6,100:BF5AF2&height=260&section=header&text=Artem&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Software%20Developer%20%2F%2F%20Student%20%2F%2F%20Builder&descAlignY=63&descSize=18" width="100%" alt="Artem — Software Developer">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&size=21&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+useful+software.;Learning+by+building+real+projects.;C%23+%7C+.NET+%7C+Python+%7C+PostgreSQL;Currently+building+ScheduleSystem." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&size=21&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+useful+software.;Learning+by+building+real+projects.;C%23+%7C+.NET+%7C+Python+%7C+PostgreSQL;Currently+building+ScheduleSystem." alt="Typing animation">
 
 </div>
 
@@ -12,9 +12,9 @@
 
 <div align="center">
 
- Software Developer
+###  Software Developer
 
-C# · .NET · ASP.NET Core · Python · PostgreSQL
+**C# · .NET · ASP.NET Core · Python · PostgreSQL**
 
 </div>
 
@@ -39,13 +39,14 @@ from database design and backend logic to clean interfaces.
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 💻
 
 **Development**
 
-C# · .NET
+C# · .NET<br>
 ASP.NET Core
 
 </td>
@@ -56,7 +57,7 @@ ASP.NET Core
 
 **Programming**
 
-Python
+Python<br>
 Algorithms · Logic
 
 </td>
@@ -67,7 +68,7 @@ Algorithms · Logic
 
 **Data**
 
-PostgreSQL
+PostgreSQL<br>
 SQL · Databases
 
 </td>
@@ -78,10 +79,11 @@ SQL · Databases
 
 **Focus**
 
-Architecture
+Architecture<br>
 UI / UX · Git
 
 </td>
+
 </tr>
 </table>
 
@@ -98,7 +100,7 @@ UI / UX · Git
 ### College Scheduling Platform
 
 A full-stack scheduling system designed to manage
-**teachers, groups, subjects, classrooms and lessons**.
+**teachers, groups, subjects, classrooms and lessons.**
 
 <br>
 
@@ -114,6 +116,7 @@ A full-stack scheduling system designed to manage
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### Core
@@ -140,6 +143,7 @@ A full-stack scheduling system designed to manage
 * Schedule filtering & search
 
 </td>
+
 </tr>
 </table>
 
@@ -149,6 +153,8 @@ A full-stack scheduling system designed to manage
 
 ### Built with
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,html,css,js,git,github" alt="Technology stack">
 
 </div>
@@ -157,62 +163,62 @@ A full-stack scheduling system designed to manage
 
 ---
 
-## Currently building
+## Currently Building
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 01 — Better backend
+### 01 — Better Backend
 
 Improving my understanding of:
 
-`ASP.NET Core`
-`Entity Framework Core`
-`PostgreSQL`
-`MVC architecture`
+`ASP.NET Core` · `Entity Framework Core`
+`PostgreSQL` · `MVC architecture`
 
 </td>
 
 <td width="50%">
 
-### 02 — Better products
+### 02 — Better Products
 
 Working on:
 
-`UI / UX`
-`clean architecture`
-`validation`
-`real-world business logic`
+`UI / UX` · `Clean Architecture`
+`Validation` · `Business Logic`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 03 — Python
 
-Strengthening fundamentals through practice:
+Strengthening fundamentals through:
 
-`syntax` · `logic` · `algorithms` · `automation`
+`Syntax` · `Logic` · `Algorithms` · `Automation`
 
 </td>
 
 <td width="50%">
 
-### 04 — GitHub
+### 04 — Real Projects
 
-Building a portfolio around **real projects**,
+Building a portfolio around **real software**,
 not just tutorials and small exercises.
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-## GitHub
+## GitHub Activity
 
 <div align="center">
 
@@ -228,7 +234,7 @@ not just tutorials and small exercises.
 
 <br>
 
-## Contribution Flow
+## Contributions
 
 <div align="center">
 
@@ -256,7 +262,7 @@ not just tutorials and small exercises.
 
 <div align="center">
 
-### Philosophy
+## Philosophy
 
 **Build → Learn → Improve**
 
@@ -271,17 +277,11 @@ I want to understand how to use them to build useful software.
 
 <div align="center">
 
-<a href="https://github.com/Artem56x">
-<img src="https://img.shields.io/badge/GitHub-Artem56x-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=Artem56x&style=flat-square&color=8FA8FF&label=PROFILE+VIEWS" alt="Profile views">
 
 <br><br>
 
-<sub>© 2026 Artem · Built with code, curiosity and consistency.</sub>
+<sub>Built with code, curiosity and consistency.</sub>
 
 </div>
 
@@ -289,6 +289,6 @@ I want to understand how to use them to build useful software.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF5AF2,50:5E5CE6,100:0A84FF&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF5AF2,50:5E5CE6,100:0A84FF&height=120&section=footer" width="100%" alt="Footer">
 
 </div>
