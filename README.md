@@ -1,22 +1,95 @@
-# 👋 Привет! Я Artem56x
+# 👋 Hi, I'm Artem
 
-## Обо мне
-- 🎓 Студент, активно изучаю новые технологии.
-- 💻 Люблю программировать, учиться и совершенствоваться каждый день.
-- 🚀 Работаю с Python, Flask, FastAPI, HTML, CSS, JavaScript.
-- 🛠 Использую Git и GitHub для управления проектами.
+### 💻 Software Developer • Student • Builder
 
-## Мои навыки
-- **Backend:** Python, Flask, FastAPI
-- **Frontend:** HTML, CSS, JavaScript
-- **DevOps:** Git, GitHub
+I’m a software development student from Kazakhstan,
+focused on building real projects and improving my skills.
 
-## Мои проекты
--
-
-## Связаться со мной
-- GitHub: [@Artem56x](https://github.com/Artem56x)
+Currently working with **C# / ASP.NET Core / Python** and building my own applications.
 
 ---
 
-_Я люблю учиться и улучшать свои навыки каждый день!_
+## 🚀 About Me
+
+🎓 Software development student
+💻 Interested in backend & web development
+⚙️ Currently building **ScheduleSystem**
+🐍 Learning and improving Python
+🌐 Working with ASP.NET Core MVC
+🗄️ PostgreSQL & Entity Framework Core
+📚 Always learning something new
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`C#` `Python` `JavaScript` `HTML` `CSS`
+
+**Frameworks & Technologies**
+
+`ASP.NET Core` `Entity Framework Core` `PostgreSQL`
+
+**Tools**
+
+`Git` `GitHub` `VS Code` `Visual Studio`
+
+---
+
+## 📌 Featured Project
+
+### 📅 ScheduleSystem
+
+A college schedule management system built with:
+
+* ASP.NET Core MVC
+* C#
+* Entity Framework Core
+* PostgreSQL
+* HTML / CSS / JavaScript
+
+### Features
+
+✔️ Smart schedule search and filters
+✔️ Group schedules
+✔️ Teacher schedules
+✔️ Classroom schedules
+✔️ Schedule conflict detection
+✔️ Classroom capacity validation
+✔️ Classroom recommendations
+✔️ Subject/classroom requirements
+✔️ Modern glass-style interface
+
+---
+
+## 📊 What I'm Working On
+
+```text
+C# / ASP.NET Core       ███████████████░░░
+Python                  ███████████░░░░░░░
+PostgreSQL              ████████████░░░░░░
+JavaScript              █████████░░░░░░░░░
+Git / GitHub            █████████████░░░░░
+```
+
+---
+
+## 🎯 Current Goals
+
+* 🚀 Improve my C# and ASP.NET Core skills
+* 🐍 Become more confident with Python
+* 🏗️ Build more real-world projects
+* 📚 Improve software architecture
+* 🌎 Improve my English
+* 💼 Prepare for a career in software development
+
+---
+
+## 📫 Connect With Me
+
+💻 GitHub — **Artem56x**
+
+---
+
+### ⚡ Keep building. Keep learning.
