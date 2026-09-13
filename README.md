@@ -1,55 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=220&section=header&text=Artem&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Student%20%7C%20Builder&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A84FF,50:5E5CE6,100:BF5AF2&height=260&section=header&text=Artem&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Software%20Developer%20%2F%2F%20Student%20%2F%2F%20Builder&descAlignY=63&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Development+Student;C%23+%7C+ASP.NET+Core+Developer;Python+Learner;Building+ScheduleSystem;Turning+ideas+into+real+projects" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&size=21&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+useful+software.;Learning+by+building+real+projects.;C%23+%7C+.NET+%7C+Python+%7C+PostgreSQL;Currently+building+ScheduleSystem." alt="Typing animation" />
 
 </div>
 
 <br>
 
-## 👋 About Me
+<div align="center">
 
-I'm **Artem**, a software development student from Kazakhstan.
+###   Software Developer
 
-I enjoy building practical applications, working with databases and learning backend development through real projects.
+`C#` · `.NET` · `ASP.NET Core` · `Python` · `PostgreSQL`
 
-Currently focused on **C#, ASP.NET Core, PostgreSQL and Python**.
+</div>
+
+<br>
 
 ---
 
-## ⚡ What I'm Working On
+## ✦ About
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-### 📅 ScheduleSystem
+### Hello, I'm Artem 👋
 
-A college schedule management system built with **ASP.NET Core MVC**.
+I'm a software development student from Kazakhstan.
 
-* Schedule management
-* Teachers & groups
-* Subjects & classrooms
-* Conflict detection
-* Smart search & filtering
-* Classroom recommendations
-* Capacity validation
-* Group / teacher / classroom schedules
+I enjoy turning ideas into practical applications and learning programming through real projects.
+
+My current direction is **backend development**, with a focus on the **C# / .NET ecosystem**.
 
 </td>
 
-<td width="50%">
+<td width="45%" valign="top">
 
-### 🧠 Currently Learning
+### Currently
 
-* C# & .NET
-* ASP.NET Core
-* Entity Framework Core
-* PostgreSQL
-* Python
-* Clean application architecture
-* Git & GitHub
+🟦 Learning **C# & .NET**
+
+🟪 Building **ScheduleSystem**
+
+🟩 Working with **PostgreSQL**
+
+🟨 Improving **Python**
+
+⚪ Learning through real projects
 
 </td>
 </tr>
@@ -57,57 +58,95 @@ A college schedule management system built with **ASP.NET Core MVC**.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,python,html,css,js" />
-</p>
-
-### Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,postgres,git,github,vscode" />
-</p>
-
-### Other
-
-<p>
-<img src="https://skillicons.dev/icons?i=photoshop" />
-</p>
-
----
-
-## 🚀 Featured Project
+# ◉ Featured
 
 <div align="center">
 
-### 📅 ScheduleSystem
+## 📅 ScheduleSystem
 
-**College Schedule Management System**
+### College Schedule Management System
 
 </div>
 
-ScheduleSystem is an ASP.NET Core MVC application designed to simplify the creation and management of college schedules.
+A web application designed to make creating and managing college schedules easier.
 
-**Core technologies:**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`C#` · `ASP.NET Core MVC` · `Entity Framework Core` · `PostgreSQL` · `HTML` · `CSS` · `JavaScript`
+### ✦ Core
 
-**Main focus:**
+* Teachers
+* Groups
+* Subjects
+* Classrooms
+* Classroom categories
+* Schedule management
 
-> Prevent conflicts, simplify schedule management and provide useful recommendations instead of simply storing data.
+</td>
 
----
+<td width="50%" valign="top">
 
-## 📊 GitHub Activity
+### ✦ Smart Features
+
+* Smart search
+* Schedule filtering
+* Conflict detection
+* Classroom recommendations
+* Capacity validation
+* Group schedules
+* Teacher schedules
+* Classroom schedules
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Artem56x&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+`C#` `ASP.NET Core MVC` `Entity Framework Core` `PostgreSQL` `HTML` `CSS` `JavaScript`
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem56x&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</div>
+
+<br>
+
+> **The goal:** not just storing schedules, but helping prevent conflicts and make better scheduling decisions.
+
+---
+
+#  Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cs,python,html,css,js" />
+
+<br><br>
+
+### Frameworks · Database · Tools
+
+<img src="https://skillicons.dev/icons?i=dotnet,postgres,git,github,vscode" />
+
+<br><br>
+
+### Other
+
+<img src="https://skillicons.dev/icons?i=photoshop" />
+
+</div>
+
+---
+
+# ◎ GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Artem56x&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem56x&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -115,13 +154,13 @@ ScheduleSystem is an ASP.NET Core MVC application designed to simplify the creat
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Artem56x&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Artem56x&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contributions
 
 <div align="center">
 
@@ -131,55 +170,136 @@ ScheduleSystem is an ASP.NET Core MVC application designed to simplify the creat
 
 ---
 
-## 📂 Other Projects
+# ✦ Direction
 
 <div align="center">
 
-|          Project          |             Focus             |
-| :-----------------------: | :---------------------------: |
-|   📅 **ScheduleSystem**   |   ASP.NET Core · PostgreSQL   |
-|   🐍 **Python Projects**  | Python · Programming Practice |
-| 🗄️ **Database Projects** |       SQL · Access · 1C       |
-|    🌐 **Web Projects**    |    HTML · CSS · JavaScript    |
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### C#
+
+.NET
+ASP.NET Core
+Entity Framework
+
+</td>
+
+<td align="center" width="25%">
+
+### Python
+
+Fundamentals
+Automation
+Projects
+
+</td>
+
+<td align="center" width="25%">
+
+### Backend
+
+APIs
+Databases
+Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+### Projects
+
+Build
+Test
+Improve
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🎯 Goals
+# ⌁ Philosophy
+
+<div align="center">
+
+### Learn
+
+↓
+
+### Build
+
+↓
+
+### Break
+
+↓
+
+### Understand
+
+↓
+
+### Improve
+
+<br>
+
+**Learn → Build → Understand → Improve**
+
+</div>
+
+I believe programming is learned best by building real things.
+
+Not just watching tutorials.
+
+Not just copying code.
+
+**Build something. Break it. Understand why. Fix it. Make it better.**
+
+---
+
+# ◌ Roadmap
 
 ```text
-Build real projects
-        ↓
-Improve programming fundamentals
-        ↓
-Learn modern backend development
-        ↓
-Create production-quality applications
-        ↓
-Become a professional software developer
+Programming Fundamentals       ✓
+Database Applications          ✓
+C# / ASP.NET Core              ✓
+ScheduleSystem                 ✓
+
+Advanced C#                    →
+Better Architecture            →
+More Production Projects       →
+Stronger Python                →
+Professional Software Dev      →
 ```
 
 ---
 
-## 💭 My Approach
+# ⌁ Projects
 
-```text
-Learn → Build → Break → Understand → Improve
-```
+<div align="center">
 
-I don't want to only learn programming from tutorials.
+| Project                   | Description                        | Stack                          |
+| :------------------------ | :--------------------------------- | :----------------------------- |
+| 📅 **ScheduleSystem**     | College schedule management        | C# · ASP.NET Core · PostgreSQL |
+| 🐍 **Python Projects**    | Programming practice & experiments | Python                         |
+| 🗄️ **Database Projects** | Educational database applications  | SQL · Access · 1C              |
+| 🌐 **Web Projects**       | Frontend experiments               | HTML · CSS · JavaScript        |
 
-I want to **build things, solve problems, understand my mistakes and continuously improve my code.**
+</div>
 
 ---
 
-## 📫 Find Me
+#  Connect
 
 <div align="center">
 
 <a href="https://github.com/Artem56x">
-<img src="https://img.shields.io/badge/GitHub-Artem56x-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Artem56x-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -188,18 +308,20 @@ I want to **build things, solve problems, understand my mistakes and continuousl
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Artem56x&style=flat-square&color=2f81f7" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Artem56x&style=flat-square&color=0A84FF" alt="Profile views" />
 
 <br><br>
 
-<sub>Thanks for visiting my profile.</sub>
+### Thanks for stopping by. 👋
+
+<sub>Built with curiosity, code and a lot of debugging.</sub>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF5AF2,50:5E5CE6,100:0A84FF&height=120&section=footer" width="100%" />
 
 </div>
