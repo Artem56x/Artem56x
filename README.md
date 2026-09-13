@@ -284,3 +284,11 @@ I want to understand how to use them to build useful software.
 <sub>© 2026 Artem · Built with code, curiosity and consistency.</sub>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF5AF2,50:5E5CE6,100:0A84FF&height=120&section=footer" width="100%" />
+
+</div>
