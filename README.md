@@ -1,132 +1,23 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:050B18,20:0A84FF,45:5E5CE6,70:8B5CF6,100:BF5AF2&height=330&section=header&text=ARTEM&fontSize=86&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%20%E2%80%A2%20%20STUDENT%20%20%E2%80%A2%20%20BUILDER&descAlignY=63&descSize=17" width="100%" alt="Artem">
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:050B18,20:0A84FF,45:5E5CE6,70:8B5CF6,100:BF5AF2&height=300&section=header&text=ARTEM&fontSize=86&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20STUDENT%20%7C%20BUILDER&descAlignY=62&descSize=16" width="100%" alt="Artem — Software Developer">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=500&size=18&duration=2600&pause=900&color=8FA8FF&center=true&vCenter=true&width=760&lines=I+build+software+to+understand+how+it+works.;C%23+%2F+.NET+%2F+Python+%2F+PostgreSQL;From+idea+%E2%86%92+database+%E2%86%92+backend+%E2%86%92+interface.;Currently+building+ScheduleSystem." alt="Artem introduction">
+<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=500&size=17&duration=2800&pause=900&color=8FA8FF&center=true&vCenter=true&width=760&lines=C%23+%2F+.NET+%2F+ASP.NET+Core;Building+real+applications%2C+not+just+tutorials.;Backend+%7C+Databases+%7C+Web+Development;Learn.+Build.+Debug.+Improve." alt="Introduction">
 
 <br><br>
 
-`C#`　`ASP.NET Core`　`Python`　`PostgreSQL`
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A84FF,50:5E5CE6,100:BF5AF2&height=3&section=header" width="70%" alt="Gradient divider">
-
-</div>
-
-<br>
-
-<div align="center">
-
-# ✦ Building, not just learning.
-
-**Software development student focused on backend development,
-databases and building practical applications.**
-
-<br>
-
-I like taking an idea, breaking it into logic and data,
-and turning it into something that actually works.
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### `01`
-
-## Backend
-
-C#
-.NET
-ASP.NET Core
-MVC
-
-</td>
-
-<td width="25%" align="center">
-
-### `02`
-
-## Data
-
-PostgreSQL
-SQL
-Entity Framework
-Database design
-
-</td>
-
-<td width="25%" align="center">
-
-### `03`
-
-## Programming
-
-Python
-Algorithms
-Problem solving
-Automation
-
-</td>
-
-<td width="25%" align="center">
-
-### `04`
-
-## Product
-
-UI / UX
-Architecture
-Validation
-Real-world logic
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&size=14&duration=3200&pause=1000&color=6B7280&center=true&vCenter=true&width=650&lines=%2F%2F+CURRENTLY+BUILDING;%2F%2F+CURRENTLY+LEARNING;%2F%2F+CURRENTLY+IMPROVING" alt="Current status">
-
-</div>
-
-<br>
-
-# ⌁ ScheduleSystem
-
-<div align="center">
-
-## A scheduling system built as a real product.
-
-<br>
-
-<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=8FA8FF" alt="C#">
-<img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=8FA8FF" alt=".NET">
-<img src="https://img.shields.io/badge/ASP.NET_CORE-0D1117?style=for-the-badge&logo=dotnet&logoColor=8FA8FF" alt="ASP.NET Core">
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=8FA8FF" alt="PostgreSQL">
+`C#`　`ASP.NET Core`　`PostgreSQL`　`Python`　`Git`
 
 <br><br>
 
 <a href="https://github.com/Artem56x/ScheduleSystem">
-<img src="https://img.shields.io/badge/OPEN_SCHEDULESYSTEM-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="Open ScheduleSystem">
+<img src="https://img.shields.io/badge/FEATURED_PROJECT-ScheduleSystem-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="Featured project">
+</a>
+
+<a href="https://github.com/temirkhanerbolatovich-coder/saq-qurylys">
+<img src="https://img.shields.io/badge/HACKATHON_PROJECT-SAQ_QURYLYS-5E5CE6?style=for-the-badge&logo=github&logoColor=white" alt="Hackathon project">
 </a>
 
 </div>
@@ -135,52 +26,103 @@ Real-world logic
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A84FF,50:5E5CE6,100:BF5AF2&height=3&section=header" width="65%" alt="Gradient divider">
+
+</div>
+
+<br>
+
+## ✦ About Me
+
+I'm a software development student interested in backend engineering, databases, application architecture, and building useful software.
+
+I enjoy understanding how systems work — from database structure and business logic to APIs, validation, and user interfaces.
+
+Currently focused on:
+
+- Building applications with **C# and ASP.NET Core**
+- Working with **PostgreSQL and Entity Framework Core**
+- Designing and improving application architecture
+- Learning algorithms, problem-solving, and software engineering practices
+- Collaborating on practical development projects
+
+My goal is to become a strong software developer by building, testing, debugging, and continuously improving real applications.
+
+<br>
+
+## ⌁ Featured Projects
+
+<div align="center">
+
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+<div align="center">
 
-### ◉ What it solves
+### ⌁ ScheduleSystem
 
-A college timetable management system covering:
+<a href="https://github.com/Artem56x/ScheduleSystem">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="View ScheduleSystem">
+</a>
 
-**Teachers**
-**Groups**
-**Subjects**
-**Classrooms**
-**Lessons**
+</div>
+
+**A college timetable management and generation system.**
+
+Built with ASP.NET Core MVC and PostgreSQL to manage educational scheduling workflows.
+
+**Key functionality**
+
+- Teacher, group, subject, and classroom management
+- Schedule filtering and validation
+- Teacher, group, and classroom conflict checks
+- Automatic timetable generation with constraints
+- Classroom recommendations based on capacity and requirements
+- Authentication and role-based access control
+- PDF and Excel schedule exports
+
+**Tech stack**
+
+`C#` `ASP.NET Core MVC` `.NET 8` `EF Core` `PostgreSQL`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+<div align="center">
 
-### ◉ What makes it smart
+### ◈ SAQ QURYLYS
 
-The system checks:
+<a href="https://github.com/temirkhanerbolatovich-coder/saq-qurylys">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-5E5CE6?style=for-the-badge&logo=github&logoColor=white" alt="View SAQ QURYLYS">
+</a>
 
-**Schedule conflicts**
-**Teacher availability**
-**Group availability**
-**Classroom availability**
-**Room capacity**
-**Classroom requirements**
+</div>
+
+**A hackathon project focused on construction-related monitoring and data visualization.**
+
+Contributed to the **frontend development** as part of a team during Codemasters Hackathon 8.0 at Oskemen Hub.
+
+**My focus**
+
+- Developing the user interface
+- Building the `/signals` page
+- Implementing navigation, search, and KPI sections
+- Presenting analytical information and recent objects
+- Improving responsive layouts for different screen sizes
+- Checking interface behavior across viewport sizes
+
+**Tech stack**
+
+`Frontend` `HTML` `CSS` `JavaScript / TypeScript` `Git`
 
 </td>
-
 </tr>
 </table>
 
 </div>
 
 <br>
-
-<div align="center">
-
-`SEARCH`　`FILTER`　`VALIDATE`　`RECOMMEND`　`SCHEDULE`
-
-</div>
-
-<br><br>
 
 <div align="center">
 
@@ -190,80 +132,75 @@ The system checks:
 
 <br>
 
-# ◌ Development Lab
+## ◉ Technical Focus
 
 <div align="center">
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### Backend Development
 
-### Backend
-
-```text
-C#                 ███████████████░░
-ASP.NET Core       ██████████████░░░
-Entity Framework   ████████████░░░░░
-MVC                ████████████░░░░░
-```
-
-</td>
-
-<td width="50%">
-
-### Data
-
-```text
-PostgreSQL         ██████████████░░░
-SQL                █████████████░░░░
-Database Design    ████████████░░░░░
-```
+- C#
+- .NET 8
+- ASP.NET Core MVC
+- Entity Framework Core
+- REST API fundamentals
+- Authentication and authorization
+- Business logic and validation
 
 </td>
+<td width="50%" valign="top">
 
+### Databases
+
+- PostgreSQL
+- SQL
+- Relational database design
+- Entity relationships
+- EF Core migrations
+- Data validation and querying
+
+</td>
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### Web Development
 
-### Python
-
-```text
-Fundamentals       █████████████░░░░
-Logic              ████████████░░░░░
-Algorithms         ██████████░░░░░░░
-Automation         █████████░░░░░░░░
-```
-
-</td>
-
-<td width="50%">
-
-### Product
-
-```text
-UI / UX            ████████████░░░░░
-Architecture       ███████████░░░░░░
-Validation         █████████████░░░░
-Git / GitHub       ██████████████░░░
-```
+- HTML
+- CSS
+- JavaScript
+- TypeScript fundamentals
+- Responsive interfaces
+- UI implementation
 
 </td>
+<td width="50%" valign="top">
 
+### Engineering Practices
+
+- Git and GitHub
+- Debugging and testing
+- Application architecture
+- Algorithms and problem-solving
+- Technical documentation
+- Team collaboration
+
+</td>
 </tr>
 </table>
 
 </div>
 
-<br><br>
+<br>
 
-# ⌘ Technology Universe
+## ⌘ Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,postgres,html,css,js,git,github,vscode,visualstudio&perline=11" alt="Technology stack">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,postgres,html,css,js,ts,git,github,vscode,visualstudio&perline=6" alt="Technologies and development tools">
 
 <br><br>
 
@@ -281,7 +218,7 @@ Git / GitHub       ██████████████░░░
 
 <br>
 
-# ◈ GitHub Dashboard
+## ◈ GitHub Dashboard
 
 <div align="center">
 
@@ -289,85 +226,23 @@ Git / GitHub       ██████████████░░░
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem56x&layout=donut&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B95A7&langs_count=8" height="200" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem56x&layout=donut&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B95A7&langs_count=8" height="190" alt="Most-used programming languages">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Artem56x&hide_border=true&background=0D1117&stroke=1F2937&ring=8FA8FF&fire=BF5AF2&currStreakLabel=FFFFFF&sideLabels=8B95A7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" width="70%" alt="GitHub streak">
+<img src="https://streak-stats.demolab.com?user=Artem56x&hide_border=true&background=0D1117&stroke=1F2937&ring=8FA8FF&fire=BF5AF2&currStreakLabel=FFFFFF&sideLabels=8B95A7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" width="75%" alt="GitHub contribution streak">
 
 </div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&size=14&duration=3000&pause=1200&color=6B7280&center=true&vCenter=true&width=700&lines=GitHub+is+where+I+document+the+things+I+build.;Every+project+is+part+of+the+learning+process." alt="GitHub philosophy">
-
-</div>
-
-<br>
-
----
 
 <br>
 
 <div align="center">
 
-# ◇ Selected Work
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### ScheduleSystem
-
-College scheduling platform
-
-`C#` `ASP.NET Core` `PostgreSQL`
-
-<br>
-
-<a href="https://github.com/Artem56x/ScheduleSystem">View →</a>
-
-</td>
-
-<td align="center" width="33%">
-
-### Database
-
-Educational database applications
-
-`SQL` `Access` `1C`
-
-<br>
-
-`Explore →`
-
-</td>
-
-<td align="center" width="33%">
-
-### Web
-
-Frontend experiments
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-`Explore →`
-
-</td>
-
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&size=14&duration=3200&pause=1100&color=6B7280&center=true&vCenter=true&width=700&lines=Every+repository+documents+part+of+the+journey.;Build+projects.+Understand+the+details.;Improve+one+commit+at+a+time." alt="Development philosophy">
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -375,29 +250,28 @@ Frontend experiments
 
 <br><br>
 
-# Build → Learn → Improve
+## ◇ What I'm Working Toward
+
+Becoming a software developer who can take an idea from initial requirements to a working, maintainable application.
+
+I want to understand not only how to write code, but also how to design systems, solve problems, and build software that people can rely on.
 
 <br>
 
-### I don't want to just learn technologies.
-
-I want to understand them deeply enough
-to build something useful with them.
+<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&size=16&duration=2800&pause=900&color=8FA8FF&center=true&vCenter=true&width=600&lines=Think+clearly.;Build+carefully.;Test+the+details.;Keep+improving." alt="Development mindset">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&size=15&duration=3000&pause=900&color=8FA8FF&center=true&vCenter=true&width=650&lines=Build+something.;Break+it.;Understand+it.;Improve+it." alt="Build Learn Improve">
+<a href="https://github.com/Artem56x?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
+</a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Artem56x&style=flat-square&color=8FA8FF&label=PROFILE+VIEWS" alt="Profile views">
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF5AF2,35:8B5CF6,70:5E5CE6,100:0A84FF&height=160&section=footer" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF5AF2,35:8B5CF6,70:5E5CE6,100:0A84FF&height=150&section=footer" width="100%" alt="Footer">
 
 </div>
